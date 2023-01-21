@@ -696,7 +696,7 @@ img {
 }
 .subscribe-button{
     display: flex;
-    width: 200px;
+    max-width: 200px;
     height: 50%;
     padding: 10px 28px;
     margin-left: 12px;
